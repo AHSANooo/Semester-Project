@@ -55,4 +55,3 @@ Watch the project in action:
 - Collect points by defeating enemies and destroying obstacles.
 
 Feel free to explore and modify the code to enhance the game further!
-```
