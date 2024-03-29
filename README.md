@@ -56,5 +56,3 @@ Watch the project in action:
 
 Feel free to explore and modify the code to enhance the game further!
 ```
-
-Now the README.md includes the demo video presented in the specified format.
